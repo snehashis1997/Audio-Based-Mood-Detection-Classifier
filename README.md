@@ -2,7 +2,8 @@
 
 This is my work in SkyBits Technologies Pvt Ltd (http://sky-bits.com/) from 1st August, 2019 to 30th September, 2019. During this time, I was to design a novel machine learning based model where using my Laptop’s microphone it recorded 15 sec audio and divided 15sec audio into three parts, took decision for each part whether that part was loudly or non-loudly.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F51125356%2Fproper-way-to-build-menus-with-python-telegram-bot&psig=AOvVaw3H7NAn5TJT9iGvOKCdmAV6&ust=1599392747505000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDfsrf40esCFQAAAAAdAAAAABAD
+![23](https://user-images.githubusercontent.com/33135767/92304539-872c8580-ef9c-11ea-9d81-771c619e8833.png)
+
 
 
 # Dataset description
