@@ -25,11 +25,16 @@ This is my work in SkyBits Technologies Pvt Ltd (http://sky-bits.com/) from 1st 
 
 # My work
 
-Here I worked with some Bio medical signals.  I used some preprocessing stpes like abrupt Peak finding, removing noise by Gausiinan filtering (see notebook: name of the file)
-Then using histrogram plots try to create some class.
+Using Librosa library 1st extract the MFCC features from .wav files and plot it with matplotlib library then save the pictures with .png extension.
+The wav files are collected from Youtube video file. Divided the YouTube file into 5-7sec files then extract the MFCC features using Librosa.
+For testing used Laptop’s Microphone to record live audio and then plot it using Matplotlib then using Librosa library extract MFCC features and test it.
 
-At first I solved the given problem as a regression problem, later I solved the problem as a classification problem.
+For train the accuracy almost 95%.
 
-So, in regression problem, I tried to use diffrent regression algorithims like SVR,Random forest(Bagging), XGBOOST(Boosting).
 
-Also the given dataset was very much imbalanced, so while solving classification problems I used Imblearn library's SMOTE algorithim to reduce imblance.
+
+![spectrogram_loudy_8](https://user-images.githubusercontent.com/33135767/92584105-daf6e180-f2b0-11ea-9e25-e21dd1e7d5a9.png)
+
+![spectrogram_nonloudy0](https://user-images.githubusercontent.com/33135767/92584168-ee09b180-f2b0-11ea-9bf9-355e1c2e8036.png)
+![image](https://user-images.githubusercontent.com/33135767/92584576-71c39e00-f2b1-11ea-980a-5490b8adf52c.png)
+![image](https://user-images.githubusercontent.com/33135767/92584660-89028b80-f2b1-11ea-8324-d498e0e3e73d.png)
