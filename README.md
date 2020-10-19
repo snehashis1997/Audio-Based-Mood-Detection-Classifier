@@ -9,9 +9,9 @@ This is my work in SkyBits Technologies Pvt Ltd (http://sky-bits.com/) from 1st 
 
 # Dataset description
 
--- The given problem dataset is not present in opensource, so I have to create this dataset. At first,  downloded some movie clips,then extract the audios from those clips.
+* The given problem dataset is not present in opensource, so I have to create this dataset. At first,  downloded some movie clips,then extract the audios from those clips.
 
--- Then, make short audio clips (15 secs) length, compute the MFCCs and plot the spectrogram in dB scale.
+* Then, make short audio clips (15 secs) length, compute the MFCCs and plot the spectrogram in dB scale.
 
 # Libraries:
 
