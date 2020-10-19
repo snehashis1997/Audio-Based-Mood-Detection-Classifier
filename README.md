@@ -32,9 +32,9 @@ For testing used Laptop’s Microphone to record live audio and then plot it usi
 For train the accuracy almost 95%.
 
 
-
 ![spectrogram_loudy_8](https://user-images.githubusercontent.com/33135767/92584105-daf6e180-f2b0-11ea-9e25-e21dd1e7d5a9.png)
 
 ![spectrogram_nonloudy0](https://user-images.githubusercontent.com/33135767/92584168-ee09b180-f2b0-11ea-9bf9-355e1c2e8036.png)
-![image](https://user-images.githubusercontent.com/33135767/92584576-71c39e00-f2b1-11ea-980a-5490b8adf52c.png)
-![image](https://user-images.githubusercontent.com/33135767/92584660-89028b80-f2b1-11ea-8324-d498e0e3e73d.png)
+![image](https://user-images.githubusercontent.com/33135767/96457317-3c5d8900-123d-11eb-932b-9bc1689679aa.png) ![image](https://user-images.githubusercontent.com/33135767/92584576-71c39e00-f2b1-11ea-980a-5490b8adf52c.png)
+
+
