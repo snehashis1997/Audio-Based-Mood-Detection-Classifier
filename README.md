@@ -2,10 +2,10 @@
 
 This is my work in SkyBits Technologies Pvt Ltd (http://sky-bits.com/) from 1st August, 2019 to 30th September, 2019. During this time, I was to design a novel machine learning based model where using my Laptop’s microphone it recorded 15 sec audio and divided 15sec audio into three parts, took decision for each part whether that part was loudly or non-loudly.
 
-### In an office room when lots of people are there, then Chit chats and other sounds happening. This project's primary objective to detect those chit chats using a voice recorder which can record a 15 secs audio file after some time intervals, does the necessary processing and try to detect whether those sounds are happening or not. The decision of the sensor can be sent to a cloud device for remote monitoring.
+In an office room when lots of people are there, then Chit chats and other sounds happening. This project's primary objective to detect those chit chats using a voice recorder which can record a 15 secs audio file after some time intervals, does the necessary processing and try to detect whether those sounds are happening or not. The decision of the sensor can be sent to a cloud device for remote monitoring.
 
 
-### Here Loudy means those chit chats sounds. Generally, we can go for a voice amplitude threshold-based method to determine what's happening, but the question arises when some of the people's voice pitch is naturally higher. Then that threshold-based approach does not work well, so I go with FFT based MFCC features based approach. It is very much natural that when chit chats are happening then lot's of people simultaneously talking and every one speech frequency is not the same. Lots of frequency present at a time. MFCC try to capture that using FFT and calculate power in dB scale..
+Here Loudy means those chit chats sounds. Generally, we can go for a voice amplitude threshold-based method to determine what's happening, but the question arises when some of the people's voice pitch is naturally higher. Then that threshold-based approach does not work well, so I go with FFT based MFCC features based approach. It is very much natural that when chit chats are happening then lot's of people simultaneously talking and every one speech frequency is not the same. Lots of frequency present at a time. MFCC try to capture that using FFT and calculate power in dB scale..
 
 
 # Dataset description
